@@ -1,11 +1,12 @@
 import './App.css';
-import ActiveExample from './Lista';
+//import DefaultExample from './Lista';
+import Screen from './Screen'
 
 function App() {
 
   return (
     <div className="App">
-      <ActiveExample />
+      <Screen />
     </div>
   );
 }
